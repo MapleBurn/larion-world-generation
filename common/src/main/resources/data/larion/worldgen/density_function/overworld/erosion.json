@@ -1,5 +1,5 @@
 {
-  "type": "minecraft:max",
+  "type": "minecraft:min",
   "argument1": {
     "type": "minecraft:spline",
     "spline": {
